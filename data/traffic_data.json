@@ -1,0 +1,210 @@
+[
+  {
+    "id": "traffic_001",
+    "road_name": "Beirut-Tripoli Highway (North)",
+    "segment": "Beirut to Jounieh",
+    "start_location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "end_location": {
+      "lat": 33.9808,
+      "lon": 35.6178
+    },
+    "traffic_level": "moderate",
+    "average_speed_kmh": 45,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 5,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_002",
+    "road_name": "Beirut-Tripoli Highway (North)",
+    "segment": "Jounieh to Byblos",
+    "start_location": {
+      "lat": 33.9808,
+      "lon": 35.6178
+    },
+    "end_location": {
+      "lat": 34.1209,
+      "lon": 35.6478
+    },
+    "traffic_level": "light",
+    "average_speed_kmh": 75,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 1,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_003",
+    "road_name": "Beirut-Tripoli Highway (North)",
+    "segment": "Byblos to Batroun",
+    "start_location": {
+      "lat": 34.1209,
+      "lon": 35.6478
+    },
+    "end_location": {
+      "lat": 34.2553,
+      "lon": 35.6586
+    },
+    "traffic_level": "light",
+    "average_speed_kmh": 78,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 0,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_004",
+    "road_name": "Beirut-Tripoli Highway (North)",
+    "segment": "Batroun to Tripoli",
+    "start_location": {
+      "lat": 34.2553,
+      "lon": 35.6586
+    },
+    "end_location": {
+      "lat": 34.4364,
+      "lon": 35.8211
+    },
+    "traffic_level": "heavy",
+    "average_speed_kmh": 30,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 15,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": [
+      {
+        "type": "construction",
+        "description": "Road maintenance work - one lane closed",
+        "severity": "medium"
+      }
+    ]
+  },
+  {
+    "id": "traffic_005",
+    "road_name": "Beirut-Damascus Highway (East)",
+    "segment": "Beirut to Aley",
+    "start_location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "end_location": {
+      "lat": 33.8090,
+      "lon": 35.6002
+    },
+    "traffic_level": "heavy",
+    "average_speed_kmh": 25,
+    "typical_speed_kmh": 70,
+    "delay_minutes": 20,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": [
+      {
+        "type": "accident",
+        "description": "Minor traffic accident - expect delays",
+        "severity": "medium"
+      }
+    ]
+  },
+  {
+    "id": "traffic_006",
+    "road_name": "Beirut-Sidon Highway (South)",
+    "segment": "Beirut to Damour",
+    "start_location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "end_location": {
+      "lat": 33.7372,
+      "lon": 35.4489
+    },
+    "traffic_level": "moderate",
+    "average_speed_kmh": 50,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 8,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_007",
+    "road_name": "Beirut-Sidon Highway (South)",
+    "segment": "Damour to Sidon",
+    "start_location": {
+      "lat": 33.7372,
+      "lon": 35.4489
+    },
+    "end_location": {
+      "lat": 33.5631,
+      "lon": 35.3708
+    },
+    "traffic_level": "light",
+    "average_speed_kmh": 75,
+    "typical_speed_kmh": 80,
+    "delay_minutes": 2,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_008",
+    "road_name": "Downtown Beirut - Verdun Route",
+    "segment": "Central District to Verdun",
+    "start_location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "end_location": {
+      "lat": 33.8697,
+      "lon": 35.4839
+    },
+    "traffic_level": "heavy",
+    "average_speed_kmh": 15,
+    "typical_speed_kmh": 40,
+    "delay_minutes": 10,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": [
+      {
+        "type": "congestion",
+        "description": "Heavy rush hour traffic",
+        "severity": "high"
+      }
+    ]
+  },
+  {
+    "id": "traffic_009",
+    "road_name": "Hamra - AUB Route",
+    "segment": "Hamra Street to AUB",
+    "start_location": {
+      "lat": 33.8978,
+      "lon": 35.4823
+    },
+    "end_location": {
+      "lat": 33.9018,
+      "lon": 35.4787
+    },
+    "traffic_level": "moderate",
+    "average_speed_kmh": 20,
+    "typical_speed_kmh": 30,
+    "delay_minutes": 3,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  },
+  {
+    "id": "traffic_010",
+    "road_name": "Bekaa Valley Highway",
+    "segment": "Beirut to Zahle",
+    "start_location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "end_location": {
+      "lat": 33.8464,
+      "lon": 35.9016
+    },
+    "traffic_level": "moderate",
+    "average_speed_kmh": 55,
+    "typical_speed_kmh": 70,
+    "delay_minutes": 7,
+    "last_updated": "2025-01-14T10:30:00Z",
+    "incidents": []
+  }
+]

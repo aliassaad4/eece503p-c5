@@ -1,0 +1,197 @@
+[
+  {
+    "id": "cs_001",
+    "name": "Beirut Central EV Hub",
+    "address": "Downtown Beirut, Beirut Central District",
+    "location": {
+      "lat": 33.8938,
+      "lon": 35.5018
+    },
+    "connector_types": ["Type2", "CCS", "CHAdeMO"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 150,
+      "CHAdeMO": 50
+    },
+    "available_connectors": 4,
+    "total_connectors": 6,
+    "pricing_per_kwh": 0.15,
+    "operator": "Lebanon EV Network",
+    "is_operational": true
+  },
+  {
+    "id": "cs_002",
+    "name": "AUB Campus Charging",
+    "address": "American University of Beirut, Bliss Street",
+    "location": {
+      "lat": 33.9018,
+      "lon": 35.4787
+    },
+    "connector_types": ["Type2", "CCS"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 100
+    },
+    "available_connectors": 2,
+    "total_connectors": 4,
+    "pricing_per_kwh": 0.12,
+    "operator": "AUB Facilities",
+    "is_operational": true
+  },
+  {
+    "id": "cs_003",
+    "name": "Verdun Quick Charge",
+    "address": "Verdun Street, Beirut",
+    "location": {
+      "lat": 33.8697,
+      "lon": 35.4839
+    },
+    "connector_types": ["Type2", "CCS", "CHAdeMO"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 200,
+      "CHAdeMO": 100
+    },
+    "available_connectors": 3,
+    "total_connectors": 5,
+    "pricing_per_kwh": 0.18,
+    "operator": "FastCharge Lebanon",
+    "is_operational": true
+  },
+  {
+    "id": "cs_004",
+    "name": "Jounieh Bay Station",
+    "address": "Jounieh Seaside Road, Mount Lebanon",
+    "location": {
+      "lat": 33.9808,
+      "lon": 35.6178
+    },
+    "connector_types": ["Type2", "CCS"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 150
+    },
+    "available_connectors": 1,
+    "total_connectors": 3,
+    "pricing_per_kwh": 0.16,
+    "operator": "Coast EV Services",
+    "is_operational": true
+  },
+  {
+    "id": "cs_005",
+    "name": "Byblos Historic Charging",
+    "address": "Byblos Old Souk, Jbeil",
+    "location": {
+      "lat": 34.1209,
+      "lon": 35.6478
+    },
+    "connector_types": ["Type2", "CCS", "CHAdeMO"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 100,
+      "CHAdeMO": 50
+    },
+    "available_connectors": 2,
+    "total_connectors": 4,
+    "pricing_per_kwh": 0.14,
+    "operator": "North EV Network",
+    "is_operational": true
+  },
+  {
+    "id": "cs_006",
+    "name": "Batroun Coastal Charger",
+    "address": "Batroun Old Town, North Lebanon",
+    "location": {
+      "lat": 34.2553,
+      "lon": 35.6586
+    },
+    "connector_types": ["Type2", "CCS"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 150
+    },
+    "available_connectors": 2,
+    "total_connectors": 3,
+    "pricing_per_kwh": 0.15,
+    "operator": "North EV Network",
+    "is_operational": true
+  },
+  {
+    "id": "cs_007",
+    "name": "Tripoli Mall Station",
+    "address": "Le Mall Tripoli, Tripoli",
+    "location": {
+      "lat": 34.4364,
+      "lon": 35.8211
+    },
+    "connector_types": ["Type2", "CCS", "CHAdeMO"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 200,
+      "CHAdeMO": 100
+    },
+    "available_connectors": 4,
+    "total_connectors": 6,
+    "pricing_per_kwh": 0.13,
+    "operator": "North EV Network",
+    "is_operational": true
+  },
+  {
+    "id": "cs_008",
+    "name": "Sidon City Center",
+    "address": "Downtown Sidon, South Lebanon",
+    "location": {
+      "lat": 33.5631,
+      "lon": 35.3708
+    },
+    "connector_types": ["Type2", "CCS"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 100
+    },
+    "available_connectors": 1,
+    "total_connectors": 2,
+    "pricing_per_kwh": 0.14,
+    "operator": "South EV Services",
+    "is_operational": true
+  },
+  {
+    "id": "cs_009",
+    "name": "Tyre Heritage Station",
+    "address": "Tyre Archaeological Site Area, South Lebanon",
+    "location": {
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "connector_types": ["Type2", "CCS", "CHAdeMO"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 150,
+      "CHAdeMO": 50
+    },
+    "available_connectors": 3,
+    "total_connectors": 4,
+    "pricing_per_kwh": 0.13,
+    "operator": "South EV Services",
+    "is_operational": true
+  },
+  {
+    "id": "cs_010",
+    "name": "Zahle Valley Charger",
+    "address": "Zahle Main Street, Bekaa Valley",
+    "location": {
+      "lat": 33.8464,
+      "lon": 35.9016
+    },
+    "connector_types": ["Type2", "CCS"],
+    "power_ratings_kw": {
+      "Type2": 22,
+      "CCS": 100
+    },
+    "available_connectors": 2,
+    "total_connectors": 3,
+    "pricing_per_kwh": 0.12,
+    "operator": "Bekaa Power Network",
+    "is_operational": true
+  }
+]

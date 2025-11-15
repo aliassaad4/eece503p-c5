@@ -1,0 +1,158 @@
+[
+  {
+    "id": "ts_001",
+    "name": "Cola Transport Hub",
+    "type": "bus",
+    "location": {
+      "lat": 33.8655,
+      "lon": 35.5085
+    },
+    "address": "Cola Intersection, Beirut",
+    "routes": ["Route 1 - Tripoli", "Route 2 - Sidon", "Route 5 - Bekaa", "Route 15 - Airport"],
+    "operating_hours": "05:00-23:00",
+    "facilities": ["covered_waiting", "ticketing", "restrooms"]
+  },
+  {
+    "id": "ts_002",
+    "name": "Charles Helou Station",
+    "type": "bus",
+    "location": {
+      "lat": 33.9021,
+      "lon": 35.5235
+    },
+    "address": "Charles Helou Avenue, Beirut",
+    "routes": ["Route 3 - Byblos", "Route 4 - Jounieh", "Route 7 - Batroun", "Route 12 - Mountains"],
+    "operating_hours": "05:30-22:30",
+    "facilities": ["covered_waiting", "ticketing", "cafe", "restrooms"]
+  },
+  {
+    "id": "ts_003",
+    "name": "Dora Junction",
+    "type": "bus",
+    "location": {
+      "lat": 33.9105,
+      "lon": 35.5498
+    },
+    "address": "Dora Highway, Beirut",
+    "routes": ["Route 6 - North Coast", "Route 8 - Kesrouan", "Route 11 - Metn"],
+    "operating_hours": "06:00-22:00",
+    "facilities": ["covered_waiting", "ticketing"]
+  },
+  {
+    "id": "ts_004",
+    "name": "AUB Main Gate",
+    "type": "bus",
+    "location": {
+      "lat": 33.9018,
+      "lon": 35.4787
+    },
+    "address": "Bliss Street, Beirut",
+    "routes": ["Route 9 - Hamra Circuit", "Route 10 - Verdun Loop", "Route 15 - Airport"],
+    "operating_hours": "06:00-21:00",
+    "facilities": ["basic_shelter"]
+  },
+  {
+    "id": "ts_005",
+    "name": "Sassine Square Metro",
+    "type": "metro",
+    "location": {
+      "lat": 33.8919,
+      "lon": 35.5167
+    },
+    "address": "Sassine Square, Achrafieh",
+    "routes": ["Metro Line 1 - East-West", "Metro Line 3 - Circular"],
+    "operating_hours": "05:30-23:30",
+    "facilities": ["ticketing", "elevators", "restrooms", "shops"]
+  },
+  {
+    "id": "ts_006",
+    "name": "Mar Mikhael Tram Stop",
+    "type": "tram",
+    "location": {
+      "lat": 33.8989,
+      "lon": 35.5187
+    },
+    "address": "Armenia Street, Mar Mikhael",
+    "routes": ["Tram Line 1 - Coastal Route"],
+    "operating_hours": "06:00-22:00",
+    "facilities": ["covered_waiting", "bike_parking"]
+  },
+  {
+    "id": "ts_007",
+    "name": "Verdun Mall Station",
+    "type": "bus",
+    "location": {
+      "lat": 33.8697,
+      "lon": 35.4839
+    },
+    "address": "Verdun Street, Beirut",
+    "routes": ["Route 10 - Verdun Loop", "Route 13 - Corniche", "Route 14 - Raouche"],
+    "operating_hours": "07:00-22:00",
+    "facilities": ["covered_waiting", "ticketing", "cafe"]
+  },
+  {
+    "id": "ts_008",
+    "name": "Jounieh Central",
+    "type": "bus",
+    "location": {
+      "lat": 33.9808,
+      "lon": 35.6178
+    },
+    "address": "Jounieh Main Street, Mount Lebanon",
+    "routes": ["Route 4 - Beirut Connection", "Route 16 - Faraya", "Route 17 - Harissa"],
+    "operating_hours": "05:30-23:00",
+    "facilities": ["covered_waiting", "ticketing", "restrooms", "shops"]
+  },
+  {
+    "id": "ts_009",
+    "name": "Byblos Harbor Stop",
+    "type": "bus",
+    "location": {
+      "lat": 34.1209,
+      "lon": 35.6478
+    },
+    "address": "Byblos Harbor, Jbeil",
+    "routes": ["Route 3 - Beirut Express", "Route 18 - Coastal North"],
+    "operating_hours": "06:00-21:00",
+    "facilities": ["basic_shelter", "ticketing"]
+  },
+  {
+    "id": "ts_010",
+    "name": "Tripoli Transport Center",
+    "type": "bus",
+    "location": {
+      "lat": 34.4364,
+      "lon": 35.8211
+    },
+    "address": "Abdul Hamid Karami Square, Tripoli",
+    "routes": ["Route 1 - Beirut Express", "Route 19 - Akkar", "Route 20 - Cedars"],
+    "operating_hours": "05:00-23:00",
+    "facilities": ["covered_waiting", "ticketing", "cafe", "restrooms", "shops"]
+  },
+  {
+    "id": "ts_011",
+    "name": "Sidon Saida Terminal",
+    "type": "bus",
+    "location": {
+      "lat": 33.5631,
+      "lon": 35.3708
+    },
+    "address": "Downtown Sidon, South Lebanon",
+    "routes": ["Route 2 - Beirut Link", "Route 21 - Tyre", "Route 22 - Jezzine"],
+    "operating_hours": "05:30-22:30",
+    "facilities": ["covered_waiting", "ticketing", "restrooms"]
+  },
+  {
+    "id": "ts_012",
+    "name": "Zahle Main Station",
+    "type": "bus",
+    "location": {
+      "lat": 33.8464,
+      "lon": 35.9016
+    },
+    "address": "Zahle Brazil Street, Bekaa Valley",
+    "routes": ["Route 5 - Beirut Connection", "Route 23 - Baalbek", "Route 24 - West Bekaa"],
+    "operating_hours": "06:00-21:00",
+    "facilities": ["covered_waiting", "ticketing", "cafe"]
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "id": "poi_001",
+    "name": "American University of Beirut Medical Center",
+    "category": "hospital",
+    "location": {
+      "lat": 33.9012,
+      "lon": 35.4799
+    },
+    "address": "Cairo Street, Beirut",
+    "rating": 4.5,
+    "contact": "+961-1-350000",
+    "features": ["emergency", "24/7", "specialized_care"]
+  },
+  {
+    "id": "poi_002",
+    "name": "Hotel Dieu de France",
+    "category": "hospital",
+    "location": {
+      "lat": 33.8891,
+      "lon": 35.5134
+    },
+    "address": "Alfred Naccache Boulevard, Beirut",
+    "rating": 4.3,
+    "contact": "+961-1-615300",
+    "features": ["emergency", "24/7", "teaching_hospital"]
+  },
+  {
+    "id": "poi_003",
+    "name": "Le Gray Hotel",
+    "category": "hotel",
+    "location": {
+      "lat": 33.8972,
+      "lon": 35.5045
+    },
+    "address": "Martyrs Square, Beirut Central District",
+    "rating": 4.8,
+    "contact": "+961-1-971111",
+    "features": ["luxury", "rooftop_pool", "spa", "fine_dining"]
+  },
+  {
+    "id": "poi_004",
+    "name": "Four Seasons Hotel Beirut",
+    "category": "hotel",
+    "location": {
+      "lat": 33.8963,
+      "lon": 35.4821
+    },
+    "address": "Minet El Hosn, Beirut",
+    "rating": 4.7,
+    "contact": "+961-1-761000",
+    "features": ["luxury", "beachfront", "spa", "conference_center"]
+  },
+  {
+    "id": "poi_005",
+    "name": "Em Sherif Restaurant",
+    "category": "restaurant",
+    "location": {
+      "lat": 33.8702,
+      "lon": 35.4895
+    },
+    "address": "Damascus Road, Beirut",
+    "rating": 4.6,
+    "cuisine": "Lebanese",
+    "contact": "+961-1-321111",
+    "features": ["fine_dining", "live_music", "reservations_required"]
+  },
+  {
+    "id": "poi_006",
+    "name": "Tawlet Souk el Tayeb",
+    "category": "restaurant",
+    "location": {
+      "lat": 33.8987,
+      "lon": 35.5201
+    },
+    "address": "Naher Street, Mar Mikhael",
+    "rating": 4.5,
+    "cuisine": "Lebanese",
+    "contact": "+961-1-448129",
+    "features": ["farm_to_table", "buffet_style", "traditional"]
+  },
+  {
+    "id": "poi_007",
+    "name": "American University of Beirut",
+    "category": "school",
+    "location": {
+      "lat": 33.9018,
+      "lon": 35.4787
+    },
+    "address": "Bliss Street, Beirut",
+    "rating": 4.9,
+    "contact": "+961-1-350000",
+    "features": ["university", "campus", "museum", "beach"]
+  },
+  {
+    "id": "poi_008",
+    "name": "International College",
+    "category": "school",
+    "location": {
+      "lat": 33.8885,
+      "lon": 35.5156
+    },
+    "address": "Ain Aar, Beirut",
+    "rating": 4.4,
+    "contact": "+961-1-360000",
+    "features": ["k-12", "international_baccalaureate", "sports_facilities"]
+  },
+  {
+    "id": "poi_009",
+    "name": "ABC Achrafieh",
+    "category": "shopping",
+    "location": {
+      "lat": 33.8892,
+      "lon": 35.5158
+    },
+    "address": "Sassine Square, Achrafieh",
+    "rating": 4.3,
+    "contact": "+961-1-209109",
+    "features": ["mall", "cinema", "restaurants", "parking"]
+  },
+  {
+    "id": "poi_010",
+    "name": "Beirut Souks",
+    "category": "shopping",
+    "location": {
+      "lat": 33.8967,
+      "lon": 35.5058
+    },
+    "address": "Foch Street, Beirut Central District",
+    "rating": 4.4,
+    "contact": "+961-1-991555",
+    "features": ["mall", "luxury_brands", "outdoor", "restaurants"]
+  },
+  {
+    "id": "poi_011",
+    "name": "National Museum of Beirut",
+    "category": "museum",
+    "location": {
+      "lat": 33.8725,
+      "lon": 35.5158
+    },
+    "address": "Museum Street, Beirut",
+    "rating": 4.6,
+    "contact": "+961-1-426703",
+    "features": ["archaeology", "historical", "guided_tours"]
+  },
+  {
+    "id": "poi_012",
+    "name": "Sursock Museum",
+    "category": "museum",
+    "location": {
+      "lat": 33.8935,
+      "lon": 35.5187
+    },
+    "address": "Greek Orthodox Archbishopric Street, Achrafieh",
+    "rating": 4.5,
+    "contact": "+961-1-202001",
+    "features": ["modern_art", "historic_building", "exhibitions"]
+  },
+  {
+    "id": "poi_013",
+    "name": "Fitness First Verdun",
+    "category": "gym",
+    "location": {
+      "lat": 33.8689,
+      "lon": 35.4852
+    },
+    "address": "Verdun Center, Beirut",
+    "rating": 4.2,
+    "contact": "+961-1-792929",
+    "features": ["cardio", "weights", "classes", "pool", "sauna"]
+  },
+  {
+    "id": "poi_014",
+    "name": "Bank Audi Plaza Branch",
+    "category": "bank",
+    "location": {
+      "lat": 33.8945,
+      "lon": 35.5034
+    },
+    "address": "Riad El Solh, Beirut",
+    "rating": 4.0,
+    "contact": "+961-1-200250",
+    "features": ["atm", "foreign_exchange", "wealth_management"]
+  },
+  {
+    "id": "poi_015",
+    "name": "BLOM Bank Hamra",
+    "category": "bank",
+    "location": {
+      "lat": 33.8978,
+      "lon": 35.4823
+    },
+    "address": "Hamra Street, Beirut",
+    "rating": 3.9,
+    "contact": "+961-1-743300",
+    "features": ["atm", "business_banking", "loans"]
+  },
+  {
+    "id": "poi_016",
+    "name": "Pigeon Rocks (Raouche)",
+    "category": "park",
+    "location": {
+      "lat": 33.8932,
+      "lon": 35.4752
+    },
+    "address": "Raouche Corniche, Beirut",
+    "rating": 4.7,
+    "features": ["scenic_viewpoint", "walking_path", "photography", "seaside"]
+  },
+  {
+    "id": "poi_017",
+    "name": "Horsh Beirut",
+    "category": "park",
+    "location": {
+      "lat": 33.8653,
+      "lon": 35.5234
+    },
+    "address": "Tarik El Jdideh, Beirut",
+    "rating": 4.4,
+    "features": ["green_space", "jogging_track", "playground", "picnic_areas"]
+  },
+  {
+    "id": "poi_018",
+    "name": "Batroun Phoenician Wall",
+    "category": "landmark",
+    "location": {
+      "lat": 34.2553,
+      "lon": 35.6586
+    },
+    "address": "Old Town, Batroun",
+    "rating": 4.6,
+    "features": ["historical", "archaeological", "seaside", "photography"]
+  },
+  {
+    "id": "poi_019",
+    "name": "Byblos Castle",
+    "category": "landmark",
+    "location": {
+      "lat": 34.1214,
+      "lon": 35.6483
+    },
+    "address": "Byblos Archaeological Site, Jbeil",
+    "rating": 4.8,
+    "features": ["crusader_castle", "unesco_site", "historical", "museum"]
+  },
+  {
+    "id": "poi_020",
+    "name": "Mohammad Al-Amin Mosque",
+    "category": "landmark",
+    "location": {
+      "lat": 33.8979,
+      "lon": 35.5069
+    },
+    "address": "Martyrs Square, Beirut",
+    "rating": 4.7,
+    "features": ["religious", "architecture", "blue_dome", "guided_tours"]
+  }
+]

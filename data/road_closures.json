@@ -1,0 +1,98 @@
+[
+  {
+    "id": "closure_001",
+    "road_name": "Charles Helou Avenue",
+    "location": {
+      "lat": 33.9021,
+      "lon": 35.5235
+    },
+    "closure_type": "construction",
+    "severity": "high",
+    "description": "Major road construction - complete closure",
+    "start_date": "2025-01-10",
+    "estimated_end_date": "2025-02-15",
+    "affected_directions": ["northbound", "southbound"],
+    "alternate_routes": [
+      "Use Armenia Street via Mar Mikhael",
+      "Take Ring Road (Fouad Chehab Avenue)"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "closure_002",
+    "road_name": "Corniche Beirut (Manara Section)",
+    "location": {
+      "lat": 33.8932,
+      "lon": 35.4752
+    },
+    "closure_type": "special_event",
+    "severity": "medium",
+    "description": "Weekend pedestrian zone - vehicles restricted",
+    "start_date": "2025-01-13",
+    "estimated_end_date": "2025-01-14",
+    "affected_directions": ["both"],
+    "alternate_routes": [
+      "Use Paris Street parallel to Corniche",
+      "Take General de Gaulle Avenue"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "closure_003",
+    "road_name": "Jal el Dib Highway Exit",
+    "location": {
+      "lat": 33.9245,
+      "lon": 35.5632
+    },
+    "closure_type": "maintenance",
+    "severity": "low",
+    "description": "Night maintenance work - partial lane closure",
+    "start_date": "2025-01-14",
+    "estimated_end_date": "2025-01-14",
+    "affected_directions": ["eastbound"],
+    "alternate_routes": [
+      "Use next exit (Dbayeh) and return via service road"
+    ],
+    "is_active": true,
+    "time_restrictions": "22:00-06:00 only"
+  },
+  {
+    "id": "closure_004",
+    "road_name": "Sassine Square Intersection",
+    "location": {
+      "lat": 33.8919,
+      "lon": 35.5167
+    },
+    "closure_type": "accident",
+    "severity": "high",
+    "description": "Traffic accident - intersection partially blocked",
+    "start_date": "2025-01-14",
+    "estimated_end_date": "2025-01-14",
+    "affected_directions": ["all"],
+    "alternate_routes": [
+      "Use Alfred Naccache Boulevard",
+      "Detour via Charles Malek Avenue"
+    ],
+    "is_active": true,
+    "estimated_clearance_time": "1-2 hours"
+  },
+  {
+    "id": "closure_005",
+    "road_name": "Airport Road (Southern Entrance)",
+    "location": {
+      "lat": 33.8202,
+      "lon": 35.4933
+    },
+    "closure_type": "construction",
+    "severity": "medium",
+    "description": "Terminal expansion work - one lane closed",
+    "start_date": "2025-01-01",
+    "estimated_end_date": "2025-03-31",
+    "affected_directions": ["terminal-bound"],
+    "alternate_routes": [
+      "Use northern airport entrance",
+      "Allow extra 10 minutes for detour"
+    ],
+    "is_active": true
+  }
+]
