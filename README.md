@@ -176,8 +176,7 @@ This project is created for educational purposes as part of EECE 503P coursework
 
 ## Author
 
-[Your Name]
-[Date: 2025]
+Ali Assaad
 
 ## Acknowledgments
 
